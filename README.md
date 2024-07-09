@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm currently learning MERN stack at day
+Reading AI/ML research papers at night
 <!--
 **ishitagupta1/ishitagupta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
